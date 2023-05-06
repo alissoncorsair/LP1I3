@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/**
+ * ADS 371
+ * Alisson de Sousa Vieira
+ * Leonardo de Fontes Nunes Bezerra
+ */
 class Hora {
     private int hora;
     private int min;
