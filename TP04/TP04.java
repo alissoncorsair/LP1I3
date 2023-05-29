@@ -2,6 +2,10 @@ import java.util.Scanner;
 import java.util.Date;
 import java.text.DateFormat;
 
+/**
+ * Alisson de Sousa Vieira
+ * Leonardo de Fontes
+ */
 class Data {
     int dia;
     int mes;
