@@ -1,0 +1,45 @@
+Paciente: Alisson
+Médico: Leonardo
+Data: 10/10/2020
+Hora: 10:30:00
+Digite o nome do paciente: 
+paciente
+Digite o nome do médico: 
+medico
+Digite o dia: 
+27
+Digite o mês: 
+8
+Digite o ano: 
+2024
+Digite a hora: 
+12
+Digite o minuto: 
+12
+Digite o segundo: 
+12
+Paciente: paciente
+Médico: medico
+Data: 27/08/2024
+Hora: 12:12:12
+Digite o dia: 
+31
+Digite o mês: 
+12
+Digite o ano: 
+2003 
+Digite a hora: 
+20
+Digite o minuto: 
+20
+Digite o segundo: 
+0
+Digite o nome do paciente: 
+outro paciente
+Digite o nome do médico: 
+outro medico
+Paciente: outro paciente
+Médico: outro medico
+Data: 31/12/2003
+Hora: 20:20:00
+Quantidade de consultas: 2
