@@ -4,6 +4,11 @@ import P2.Data;
 import P2.Hora;
 import java.util.Scanner;
 
+/**
+ * ADS 371
+ * Alisson de Sousa Vieira
+ * Leonardo de Fontes Nunes Bezerra
+ */
 class ConsultaAgendada {
     private Data data;
     private Hora hora;
@@ -111,18 +116,6 @@ class ConsultaAgendada {
 }
 
 public class P2_2 {
-    /**
-     Usando a classe ConsultaAgendada instancie o objeto p1 inicializado-o com o
-    construtor ConsultaAgendada (int h, int mi, int s, int d, int m, int a, String p, String
-    m);
-     Exiba todas as propriedades de p1;
-     Agora instancie o objeto p2 usando o construtor ConsultaAgendada ();
-     Exiba todas as propriedades de p2;
-     Usando os métodos setData(), setHora(), setNomePaciente(), setNomeMedico altere
-    as propriedades de p1;
-     Exiba todas as propriedades de p1 novamente.
-     Exiba a quantidade final de consultas.
-     */
     public static void main(String[] args) {
         ConsultaAgendada p1 = new ConsultaAgendada(10, 30, 0, 10, 10, 2020, "Alisson", "Leonardo");
         System.out.println("Paciente: " + p1.getNomePaciente());
